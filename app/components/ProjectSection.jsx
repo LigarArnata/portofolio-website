@@ -66,7 +66,7 @@ const projectsData = [
     description: "UI/UX for Mini Hackaton Challenge BFI",
     image: "/images/projects/8.png",
     tag: ["All", "UI/UX"],
-    gitUrl: "https://www.figma.com/file/HO7fQTLiQLiM9l3DWx1cml/Untitled?type=design&node-id=0%3A1&mode=design&t=IHdqxgBCbpjIQ5D2-1",
+    gitUrl: "https://www.figma.com/file/e5ZW7g1dvcws12cz9rRX7o/BFI-Mobile?type=design&node-id=0%3A1&mode=design&t=MISW7uGnFoNThqtS-1",
   },
 ];
 
