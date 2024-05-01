@@ -42,7 +42,7 @@ const projectsData = [
     description: "Skin Cancer Detection Application",
     image: "/images/projects/5.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/LigarArnata/Asclepius",
   },
   {
     id: 6,
